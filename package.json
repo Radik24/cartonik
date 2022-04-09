@@ -30,7 +30,7 @@
     "test:watch": "npm run test -- -w"
   },
   "dependencies": {
-    "@carto/mapnik": "3.6.2-carto.16",
+    "@carto/mapnik": "https://github.com/Radik24/node-mapnik#v3.6.2-carto",
     "@mapbox/sphericalmercator": "^1.1.0",
     "generic-pool": "^3.6.1",
     "mime": "^2.4.0"
